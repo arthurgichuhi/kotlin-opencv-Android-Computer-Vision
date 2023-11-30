@@ -1,0 +1,5 @@
+opencv.test.opencv-androidTest-0 /home/gichuhi/AndroidStudioProjects/KotlinOpencv/opencv/build/generated/res/resValues/androidTest/debug
+opencv.test.opencv-mergeDebugAndroidTestResources-1 /home/gichuhi/AndroidStudioProjects/KotlinOpencv/opencv/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+opencv.test.opencv-mergeDebugAndroidTestResources-2 /home/gichuhi/AndroidStudioProjects/KotlinOpencv/opencv/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+opencv.test.opencv-merged_res-3 /home/gichuhi/AndroidStudioProjects/KotlinOpencv/opencv/build/intermediates/merged_res/debugAndroidTest
+opencv.test.opencv-packaged_res-4 /home/gichuhi/AndroidStudioProjects/KotlinOpencv/opencv/build/intermediates/packaged_res/debug

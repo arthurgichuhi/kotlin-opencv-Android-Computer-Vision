@@ -1,0 +1,4 @@
+/home/gichuhi/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/gichuhi/AndroidStudioProjects/KotlinOpencv/opencv/.cxx/Debug/275j5a19/armeabi-v7a \
+  opencv_jni_shared
